@@ -1,0 +1,68 @@
+.homepage {
+   min-height: 100vh;
+   background-image: url("./img/audi.jpg");
+   background-size: cover;
+}
+
+.homepage-block {
+   height: 250px;
+   display: flex;
+   justify-content: end;
+   align-items: center;
+   padding-right: 100px;
+}
+
+.homepage-block2 {
+   height: 90px;
+   display: flex;
+   justify-content: end;
+   align-items: center;
+   padding-right: 160px;
+}
+
+.styleTextH1 {
+   color: antiquewhite;
+   font-size: 155px;
+   font-weight: bold;
+   letter-spacing: 45px;
+   text-shadow: 0 2px 115px #000000;
+}
+
+.styleTextH2 {
+   color: LightGrey;
+   font-size: 100px;
+   font-weight: bold;
+   font-style: italic;
+   text-shadow: 0 0 15px #ae0a0a;
+   color: #0b0b0b;
+}
+
+.styleTextH3 {
+   color: LightGrey;
+   font-size: 40px;
+   font-weight: bold;
+   font-style: italic;
+   text-shadow: 0 0 5px #f3f17c;
+   color: antiquewhite;
+   text-decoration: underline;
+}
+
+.blockLine {
+   display: block;
+}
+
+#line {
+   width: 35px;
+   height: 3px;
+   border: 2px solid white;
+   border-radius: 45px;
+}
+
+.lineFirst {
+   margin-left: 10px;
+   background-color: #e9b60f;
+}
+
+.lineSecond {
+   margin: 5px;
+}

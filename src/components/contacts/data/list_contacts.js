@@ -1,0 +1,50 @@
+const users = [{
+   id: 40,
+   firstName: "Барней",
+   lastName: "Стинсовський",
+   phone: "+380956319521",
+   gender: "male",
+   university: "Kyiv National University of Technologies and Design",
+   description: "Created concept Audi TT",
+}, {
+   id: 41,
+   firstName: "Робін",
+   lastName: "Щербатська",
+   phone: "+380931460123",
+   gender: "female",
+   university: "Lviv Polytechnic National University",
+   description: "Assistant to the general director of our company",
+}, {
+   id: 42,
+   firstName: "Анонімний",
+   lastName: "Анонімус",
+   phone: "+380555555555",
+   university: "Hogwarts School of Witchcraft and Wizardry",
+   description: "The favorite of the whole company",
+}, {
+   id: 43,
+   firstName: "Лілія",
+   lastName: "Олдровна",
+   phone: "+380504691254",
+   gender: "female",
+   university: "Kyiv National University of Technologies and Design",
+   description: "Designer our site 'audi.com'",
+}, {
+   id: 44,
+   firstName: "Маршен",
+   lastName: "Еріксонян",
+   phone: "+380739432123",
+   gender: "male",
+   university: "Lviv Polytechnic National University",
+   description: "Created concept and style Audi RS 6",
+}, {
+   id: 45,
+   firstName: "Теодор",
+   lastName: "Мотсбес",
+   phone: "+380956319521",
+   gender: "male",
+   university: "Kyiv National University of Technologies and Design",
+   description: "Develops the Audi e-tron concept",
+}];
+
+export default users;
